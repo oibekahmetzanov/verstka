@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heder{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    text-align: center;
+    /* background-color: aqua; */
+}
+.heder_text{
+    display: flex;
+    list-style: none;
+    gap: 120px;
+    font-size: 25px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 25px;
+}
+.heder_icon{
+    display: flex;
+    gap: 30px;
+    padding-top: 25px;
+}
+.block{
+    width:100%;
+    background-color: #F9B300;
+    height: 470px;
+}
+.block ul{
+    display: flex;
+    gap: 25px;
+    margin-left: 150px;
+    color: white;
+}
+h1{
+    font-size: 70px;
+    margin-left: 150px;
+    margin-top: 150px;
+    position: absolute;
+    color: white;
+}
+.picture{
+    position: absolute;
+    margin-left: 1000px;
+}
+.zerna{
+    margin-top: -100px;
+    margin-left: 900px;
+}
+.vector{
+    margin-top: 448px;
+    width: 100%;
+}
+.block_filtr{
+    display: flex;
+    justify-content: center;
+    /* margin-top:20px; */
+    height: 600px;
+    gap: 36px;
+
+}
+.roasting{
+    width: 600px;
+    height: 665px;
+    display: flex;
+    /* flex-direction: column; */
+    gap: 20px;
+    background-color:white;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-top: 100px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    
+}
+.input_roas{
+    display: flex;
+    flex-direction: column;
+    gap: 95px;
+    padding-top: 30px;
+    margin-top: 0px;
+    
+}
+.h5{
+    position: absolute;
+    font-size: 40px;
+    margin-top: -90px;
+    margin-left: 80px;
+}
+.filter{
+    width: 1240px;
+    height: 665px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    padding-top: 100px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+
+}
+.filter_block{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 30px;
+    
+}
+.rustam{
+    display: flex;
+    margin-top: 150px;
+    text-align: center;
+    justify-content: center;
+}
+.rustam_child{
+    width: 190px;
+    height: 190px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.rustam_child h6{
+    padding: 30px;
+}
+.catalog{
+    height: 2600px;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 150px;
+    justify-content: center;
+    gap: 25px;
+    ;
+}
+.card{
+    width:400px ;
+    height:655px ;
+    /* background-color: aqua; */
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+
+}
+.card_head{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    font-size: 20px;
+    padding-top: 25px;
+    color: #F9B300;
+    gap: 70px;
+}
+.card_picture{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.img_discrip{
+    width: 172px;
+    height: 311px;
+    background-color: rgb(172, 85, 53);
+    
+  
+}
+.card_foot button{
+    background-color: #F9B300;
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+.card_foot{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+}

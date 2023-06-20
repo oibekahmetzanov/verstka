@@ -1,0 +1,88 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 2,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 3,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 4,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 5,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 6,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 7,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 8,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 9,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 10,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 11,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    },
+    {
+        "id": 12,
+        "title": "Colombia Supremo",
+        "description": "Свежеобжаренный кофе - описание товара, вкус, аромат",
+        "price": 250,
+        "image": "./imegis/kofee.png"
+    }
+    ]
+}
